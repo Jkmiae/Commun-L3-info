@@ -9,11 +9,11 @@ emails : prenom.Nom@univ-grenoble-alpes.fr
     * TD1 : Jean-Marc Vincent
     * TD2 : Valentin Garnero
    
-   * AS :
+ * AS :
     * Cours : Gilles Sérasset
     * TD : Alice ???
    
-   * Prog5:
+ * Prog5:
     * Cours : ???
     * TD : ???
 
