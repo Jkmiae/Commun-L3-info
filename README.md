@@ -14,15 +14,19 @@ emails : prenom.Nom@univ-grenoble-alpes.fr
     * TD : Alice ???
    
  * Prog5:
+    * Responsable : Guillaume Huard
     * Cours : ???
     * TD : ???
+    * Valentin Trophime
+    * Maxime De Sousa
+    * Claudia Rusu
 
  * CEBD:
     * Cours : Silviu Maniu
     * TD : Catherine Vigouroux
 
  * ALM :
-    * Cours : ???
+    * Cours : Laurence Pierre
     * TD : ???
 
 
