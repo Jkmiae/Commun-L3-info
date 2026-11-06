@@ -1,6 +1,7 @@
 # L3_info
 
 emails : prenom.Nom@univ-grenoble-alpes.fr
+(sauf prof d'AS: gilles.serraset@imag.fr)
 
 ### Profs :
 
@@ -11,12 +12,12 @@ emails : prenom.Nom@univ-grenoble-alpes.fr
    
  * AS :
     * Cours : Gilles Sérasset
-    * TD : Alice ???
+    * TD : Alice Brenon
    
  * Prog5:
     * Responsable : Guillaume Huard
     * Cours : ???
-    * TD : ???
+    * TD : Valentin Garnero
     * Valentin Trophime
     * Maxime De Sousa
     * Claudia Rusu
@@ -78,3 +79,10 @@ RELAX - Relational Algebra Calculator:
 Page de l'ue:
 
  * https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=276
+
+Digital (outil pour tracer des schémas de circuits)
+
+ * https://github.com/hneemann/Digital?tab=readme-ov-file#download-and-installation
+  > * Nécessite JRE8: https://www.java.com/en/download/manual.jsp 
+  >
+  > La documentation est disponible dans plusieurs langues (dont le français) sur le github
