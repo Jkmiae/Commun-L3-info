@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg width="45" height="45" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g fill="none" stroke="black" stroke-width="2" stroke-linecap="round">
+    <rect x="20" y="16" rx="1" ry="1" width="20" height="27"></rect>
+    <polyline points="20,43 5,43 5,16 12.5,7 20,16"></polyline>
+    <polyline points="12.5,7 32.5,7 40,16"></polyline>
+    <path d="M 12.5 7 L 12.5 4 Q 12.5 2 15 2 L 30.5 2 Q 32.5 2 32.5 4 L 32.5 7"></path>
+  </g>
+</svg>
