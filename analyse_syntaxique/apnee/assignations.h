@@ -1,0 +1,9 @@
+//
+// Created by Gilles Sérasset on 09/10/2019.
+//
+
+#ifndef SIMPLE_ASSIGN_ASSIGNATIONS_H
+#define SIMPLE_ASSIGN_ASSIGNATIONS_H
+
+
+#endif //SIMPLE_ASSIGN_ASSIGNATIONS_H
